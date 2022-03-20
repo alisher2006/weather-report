@@ -8,6 +8,27 @@ Weather app with accuweather API that displays weather information created in Re
 
 A quick look at the top-level files and directories in this weather-react project.
 
+├── api
+	├── address.js
+	├── places.js
+	├── forecast.js
+	├── hello.js
+├── public
+├── src
+	├── components
+	├──	containers
+	├── context
+	├── fonts
+	├── sass
+	├── styles
+	├── tests
+	├── utils
+	├── App.js
+	├── index.js
+	├── serviceWorker.js
+├── tailwind.config.js
+
+
 ├── public
 ├── src
 	├── components
