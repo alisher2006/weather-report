@@ -8,7 +8,7 @@ const WeatherForm = () => {
     const [location, setLocation] = useState('');
     const [picture, setPicture] = useState(null);
  
-    const API_KEY = 'aobe2sfyIy5ASVCJg9NxXFsIK6FxZHaO';
+    const API_KEY = 'XL4A72BWIYCq11QDktEAq2t3i7dEWd9T';
 
     const currentWeather = async (city) => {
         const base = (`https://dataservice.accuweather.com/locations/v1/cities/search?apikey=${API_KEY}&q=${city}`);
