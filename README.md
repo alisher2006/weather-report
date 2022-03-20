@@ -8,8 +8,23 @@ Weather app with accuweather API that displays weather information created in Re
 
 A quick look at the top-level files and directories in this weather-react project.
 
+├── public
+├── src
+	├── components
+	├──	img
+	├── App.css
+	├── App.js
+	├── index.js
 
-![alt text](/src/img/logo.png)
+First Screen 
+![alt text](/src/img/intro-screen.png)
+
+Second Screen
+![alt text](/src/img/weather-report.png)
+
+Third Screen
+![alt text](/src/img/Error.png)
+
 
 # Getting Started with Create React App
 
