@@ -1,3 +1,24 @@
+
+# 🚀  Pre-Assignment Weather App in React 
+
+Weather app with accuweather API that displays weather information created in React js
+
+
+🧐 What's inside?
+
+A quick look at the top-level files and directories in this weather-react project.
+
+├── public
+├── src
+	├── components
+	├──	img
+	├── App.css
+	├── App.js
+	├── index.js
+    
+
+![alt text](http://url/to/img.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
