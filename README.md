@@ -4,14 +4,14 @@
 Weather app with accuweather API that displays weather information created in React js
 
 🧐 What's inside?
+
  
-First Screen 
 ![alt text](/src/img/intro-screen.png)
 
-Second Screen
+
 ![alt text](/src/img/weather-report.png)
 
-Third Screen
+
 ![alt text](/src/img/Error.png)
 
 
