@@ -8,7 +8,7 @@ const WeatherForm = () => {
     const [location, setLocation] = useState('');
     const [picture, setPicture] = useState(null);
  
-    const API_KEY = 'XL4A72BWIYCq11QDktEAq2t3i7dEWd9T';
+    const API_KEY = 'niNQu4m6GT4Wz7TPoAAt6zD5HqxH6K2L';
 
 
     const currentWeather = async (city) => {
