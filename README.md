@@ -9,6 +9,7 @@ Weather app with accuweather API that displays weather information created in Re
 A quick look at the top-level files and directories in this weather-react project.
 
 ├── public
+
 ├── src
 	├── components
 	├──	img
@@ -17,7 +18,7 @@ A quick look at the top-level files and directories in this weather-react projec
 	├── index.js
     
 
-![alt text](http://url/to/img.png)
+![alt text](/src/img/logo.png)
 
 # Getting Started with Create React App
 
