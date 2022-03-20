@@ -10,6 +10,7 @@ const WeatherForm = () => {
  
     const API_KEY = 'XL4A72BWIYCq11QDktEAq2t3i7dEWd9T';
 
+    
     const currentWeather = async (city) => {
         const base = (`https://dataservice.accuweather.com/locations/v1/cities/search?apikey=${API_KEY}&q=${city}`);
         const response = await fetch(base);

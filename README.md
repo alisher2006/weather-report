@@ -3,7 +3,6 @@
 
 Weather app with accuweather API that displays weather information created in React js
 
-
 🧐 What's inside?
  
 First Screen 
