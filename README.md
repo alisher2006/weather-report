@@ -4,7 +4,7 @@
 Weather app with accuweather API that displays weather information created in React js
 Deploy 
 
-[Project Demo](https://angry-carson-e054f2.netlify.app/)
+[Project Demo](https://determined-dijkstra-1e40f0.netlify.app/)
 
 🧐 What's inside?
  
